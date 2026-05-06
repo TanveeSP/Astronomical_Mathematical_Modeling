@@ -323,7 +323,7 @@ This assignment demonstrates how **mathematics + physics + programming** can be 
 
 ## 👨‍💻 Author
 
-**Tanvee Sushama Paresh** <br>
+Tanvee Sushama Paresh <br>
 GitHub: https://github.com/TanveeSP
 ---
 
