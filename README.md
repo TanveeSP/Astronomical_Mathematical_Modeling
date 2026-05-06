@@ -63,8 +63,8 @@ Astronomical-Mathematical-Modeling/
 │
 ├── 📄 README.md
 │
-┣ 📂 Data
- ┃ ┗ .csv
+├── 📁 Data/
+│   ├── A2Q1.ipynb
 ```
 
 > 💡 *Each notebook contains code, explanation, and output visualization for the respective problem.*
