@@ -45,21 +45,21 @@ Each problem is implemented in a **separate Jupyter Notebook** for clarity and m
 Astronomical-Mathematical-Modeling/
 │
 ├── 📁 Notebooks/
-│   ├── Q1.ipynb
-│   ├── Q2.ipynb
-│   ├── Q3.ipynb
-│   ├── Q4.ipynb
-│   ├── Q5.ipynb
-│   ├── Q6.ipynb
-│   ├── Q7.ipynb
-│   ├── Q8.ipynb
-│   ├── Q9.ipynb
-│   ├── Q10.ipynb
-│   ├── Q11.ipynb
-│   ├── Q12.ipynb
-│   ├── Q13.ipynb
-│   ├── Q14.ipynb
-│   ├── Q15.ipynb
+│   ├── A2Q1.ipynb
+│   ├── A2Q2.ipynb
+│   ├── A2Q3.ipynb
+│   ├── A2Q4.ipynb
+│   ├── A2Q5.ipynb
+│   ├── A2Q6.ipynb
+│   ├── A2Q7.ipynb
+│   ├── A2Q8.ipynb
+│   ├── A2Q9.ipynb
+│   ├── A2Q10.ipynb
+│   ├── A2Q11.ipynb
+│   ├── A2Q12.ipynb
+│   ├── A2Q13.ipynb
+│   ├── A2Q14.ipynb
+│   ├── A2Q15.ipynb
 │
 ├── 📄 README.md
 │
@@ -83,7 +83,7 @@ By dividing the total days in a year by the lunar cycle, we estimate the number 
 **Result Insight:**
 This highlights the mismatch between **lunar and solar calendars**, which is why calendar adjustments (like leap months) are needed.
 
-👉 [Open Notebook](./Q1.ipynb)
+👉 [Open Notebook](./A2Q1.ipynb)
 
 ---
 
@@ -102,7 +102,7 @@ Using Newton’s gravitational law combined with circular motion, the orbital ra
 **Result Insight:**
 We obtain the satellite’s distance from Earth, which lies in the **geostationary orbit region (~36,000 km above Earth)**.
 
-👉 [Open Notebook](./Q2.ipynb)
+👉 [Open Notebook](./A2Q2.ipynb)
 
 ---
 
@@ -119,7 +119,7 @@ This is compared with the expansion of the universe using **Hubble’s Law**.
 **Result Insight:**
 Shows that **cosmic expansion dominates at large scales**, while local systems behave differently.
 
-👉 [Open Notebook](./Q3.ipynb)
+👉 [Open Notebook](./A2Q3.ipynb)
 
 ---
 
@@ -135,7 +135,7 @@ The mass of a black hole is estimated using the velocity of a nearby star.
 **Result Insight:**
 Provides an estimate of black hole mass in terms of **solar masses**, a standard astrophysical unit.
 
-👉 [Open Notebook](./Q4.ipynb)
+👉 [Open Notebook](./A2Q4.ipynb)
 
 ---
 
@@ -151,7 +151,7 @@ This problem calculates black hole mass using acceleration instead of velocity.
 **Result Insight:**
 Acts as a **cross-verification** of Q4, ensuring consistency in results.
 
-👉 [Open Notebook](./Q5.ipynb)
+👉 [Open Notebook](./A2Q5.ipynb)
 
 ---
 
@@ -168,7 +168,7 @@ This problem explores how time works on Mars.
 **Result Insight:**
 Shows that **time systems vary across planets** due to different rotations and orbital properties.
 
-👉 [Open Notebook](./Q6.ipynb)
+👉 [Open Notebook](./A2Q6.ipynb)
 
 ---
 
@@ -184,7 +184,7 @@ Light intensity decreases with distance according to the **inverse square law**.
 **Result Insight:**
 Demonstrates how rapidly brightness drops with distance in space.
 
-👉 [Open Notebook](./Q7.ipynb)
+👉 [Open Notebook](./A2Q7.ipynb)
 
 ---
 
@@ -200,7 +200,7 @@ This problem calculates the distance between two Earth locations using spherical
 **Result Insight:**
 Provides accurate real-world distance instead of flat-map approximation.
 
-👉 [Open Notebook](./Q8.ipynb)
+👉 [Open Notebook](./A2Q8.ipynb)
 
 ---
 
@@ -211,7 +211,7 @@ Determines the angular distance between stars using celestial coordinates.
 **Result Insight:**
 Important in astronomy for measuring how far objects appear in the sky.
 
-👉 [Open Notebook](./Q9.ipynb)
+👉 [Open Notebook](./A2Q9.ipynb)
 
 ---
 
@@ -227,7 +227,7 @@ This problem analyzes a famous star pattern (constellation).
 **Result Insight:**
 Confirms whether stars form a square-like shape.
 
-👉 [Open Notebook](./Q10.ipynb)
+👉 [Open Notebook](./A2Q10.ipynb)
 
 ---
 
@@ -243,7 +243,7 @@ Demonstrates extreme time dilation effects (inspired by relativity concepts).
 **Result Insight:**
 Shows how time can vary drastically under strong gravitational conditions.
 
-👉 [Open Notebook](./Q11.ipynb)
+👉 [Open Notebook](./A2Q11.ipynb)
 
 ---
 
@@ -260,7 +260,7 @@ Different mathematical models are fitted to data.
 **Result Insight:**
 The best model is selected using accuracy metrics like **R² score**.
 
-👉 [Open Notebook](./Q12.ipynb)
+👉 [Open Notebook](./A2Q12.ipynb)
 
 ---
 
@@ -271,7 +271,7 @@ Defines time in terms of galactic scale instead of Earth scale.
 **Result Insight:**
 Helps understand time in the context of **galaxy evolution**.
 
-👉 [Open Notebook](./Q13.ipynb)
+👉 [Open Notebook](./A2Q13.ipynb)
 
 ---
 
@@ -287,7 +287,7 @@ Models how brightness of a supernova decreases over time.
 **Result Insight:**
 Shows how stars fade after explosion.
 
-👉 [Open Notebook](./Q14.ipynb)
+👉 [Open Notebook](./A2Q14.ipynb)
 
 ---
 
@@ -303,7 +303,7 @@ Calculates the area formed by three stars on a spherical surface.
 **Result Insight:**
 Gives area in **steradians**, used in astronomy.
 
-👉 [Open Notebook](./Q15.ipynb)
+👉 [Open Notebook](./A2Q15.ipynb)
 
 ---
 
