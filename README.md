@@ -63,7 +63,8 @@ Astronomical-Mathematical-Modeling/
 │
 ├── 📄 README.md
 │
-└── 📊 Data
+┣ 📂 Data
+ ┃ ┗ .csv
 ```
 
 > 💡 *Each notebook contains code, explanation, and output visualization for the respective problem.*
