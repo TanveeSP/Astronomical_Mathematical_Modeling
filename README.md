@@ -315,6 +315,12 @@ Gives area in **steradians**, used in astronomy.
 * Real-world astronomical relevance
 
 ---
+## 🎯 Conclusion
+
+This assignment demonstrates how **mathematics + physics + programming** can be combined to solve complex real-world problems efficiently.
+
+---
+
 ## 👨‍💻 Author
 
 **Tanvee Sushama Paresh** <br>
@@ -330,8 +336,4 @@ GitHub: https://github.com/TanveeSP
 ⭐ If this project helped you, consider giving it a star!
 
 
-## 🎯 Conclusion
 
-This assignment demonstrates how **mathematics + physics + programming** can be combined to solve complex real-world problems efficiently.
-
----
