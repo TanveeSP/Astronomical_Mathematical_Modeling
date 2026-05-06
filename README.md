@@ -321,10 +321,10 @@ This assignment demonstrates how **mathematics + physics + programming** can be 
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-Tanvee Sushama Paresh <br>
-GitHub: https://github.com/TanveeSP
+- **Name:** Tanvee Sushama Paresh  
+- **GitHub:** [TanveeSP](https://github.com/TanveeSP)
 ---
 
 <p align="center">
