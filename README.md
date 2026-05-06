@@ -315,6 +315,20 @@ Gives area in **steradians**, used in astronomy.
 * Real-world astronomical relevance
 
 ---
+## 👨‍💻 Author
+
+**Tanvee Sushama Paresh** <br>
+GitHub: https://github.com/TanveeSP
+---
+
+<p align="center">
+  💡 <i>"Understanding mathematics becomes easier when you visualize it through code."</i>
+</p>
+
+---
+
+⭐ If this project helped you, consider giving it a star!
+
 
 ## 🎯 Conclusion
 
