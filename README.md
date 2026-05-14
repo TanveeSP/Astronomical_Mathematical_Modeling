@@ -62,12 +62,14 @@ Astronomical-Mathematical-Modeling/
 │   ├── A2Q15.ipynb
 │
 ├── 📄 README.md
+├── 📄 requirements.txt
 │
 ├── 📁 Data/
 │   ├── astronomy_fit_data - astronomy_fit_data.csv
 ```
 
 > 💡 *Each notebook contains code, explanation, and output visualization for the respective problem.*
+>  *Run command [pip install -r requirements.txt] before executing any notebook
 
 
 # 📘 Problem-wise Explanation
